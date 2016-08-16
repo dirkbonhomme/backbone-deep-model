@@ -1,6 +1,7 @@
 {
   "name": "backbone-deep-model",
   "description": "Improved support for models with nested attributes.",
+  "main": "distribution/deep-model.js",
   "author": {
     "name": "Charles Davison"
   },
